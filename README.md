@@ -1,4 +1,4 @@
-# LocalityMatters
+# Locality Matters
 In this module, we verify that locality matters in classical comupters
 
 ## Description:
